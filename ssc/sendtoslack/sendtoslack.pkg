@@ -1,0 +1,22 @@
+d 'SENDTOSLACK': module to send notifications from Stata to your smartphone through Slack
+d
+d  sendtoslack allows you to send messages from Stata to your
+"d smartphone, passing through Slack. Setup is very fast and for"
+d Windows users requires no additional programs. Particularly
+d useful to get updated once your long regressions have finished.
+d You can even ask people in your team to add a snippet of code to
+d their dofiles to get live updates on their progress.
+d
+d KW: slack
+d KW: batch
+d KW: notification
+d
+d Requires: Stata version 8
+d
+d Distribution-Date: 20181108
+d
+"d Author:  Jesse Wursten, KU Leuven"
+d Support: email jesse.wursten@@kuleuven.be
+d
+f sendtoslack.ado
+f sendtoslack.sthlp
