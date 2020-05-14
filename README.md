@@ -18,7 +18,7 @@ net install tssc.pkg, from("https://czxa.github.io/tssc/")
 ## 安装 tssc 部署的 Stata 外部命令
 
 ```stata
-...
+
 ```
 
 ------------
