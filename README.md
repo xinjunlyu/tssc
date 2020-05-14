@@ -8,11 +8,17 @@
 	<img src="https://czxa.github.io/tssc/assets/qrcode_for_gh_97f81c8af6d6_258.jpg" width="50%"/>
 </div>
 
-## 安装
+## 安装 tssc 命令
 
 ```stata
 * 从 GitHub 上安装：
 net install tssc.pkg, from("https://czxa.github.io/tssc/")
+```
+
+## 安装 tssc 部署的 Stata 外部命令
+
+```stata
+...
 ```
 
 ------------
